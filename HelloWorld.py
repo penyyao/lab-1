@@ -1,1 +1,1 @@
-print ("ET0735 - Dev0ps")
+print ("ET0735 - Dev0ps for AIoT")
